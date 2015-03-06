@@ -1,0 +1,1 @@
+{"version":3,"sources":["application.js","modules/test.js"],"names":[],"mappings":"AAAA;AACA;AACA;ACFA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"application.js","sourcesContent":["\n// application.js\n","// test.js\n\n\n\n\n\n\n\n$(function(){\n  alert(777);\n});\n"],"sourceRoot":"/source/"}
